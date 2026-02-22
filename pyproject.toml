@@ -1,0 +1,11 @@
+[project]
+name = "aya-vibeshield"
+version = "0.1.0"
+description = "Aya VibeShield - AI Transaction Co-Pilot"
+requires-python = ">=3.11"
+dependencies = [
+  "streamlit>=1.32.0",
+  "networkx>=3.2",
+  "pyvis>=0.3.2",
+  "network>=0.1",
+]
